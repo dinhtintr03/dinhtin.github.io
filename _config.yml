@@ -3,7 +3,7 @@ title_left    : "Giang Tong"
 title_right   : "" # default: ""
 description   : "A hungry game programmer."
 keywords      : "game, programming, gameplay"
-url           : https://tongtunggiang.com # site url
+url           : https://dinhtintr03.github.io/dinhtin.github.io/ # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "" # image uri like logo/cover image for site seo
 
@@ -28,7 +28,7 @@ sass:
 
 # Author settings
 author:
-  name     : "Giang Tong"
+  name     : "Dinh Tin"
 
 plugins:
   - jekyll-sitemap
