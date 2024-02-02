@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '[Monthly Favourites]' Tháng 1
+title: Monthly Favourites Tháng 1
 ---
 
 ## Nước ấm
